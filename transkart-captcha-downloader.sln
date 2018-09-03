@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transkart-captcha-downloader", "transkart-captcha-downloader\transkart-captcha-downloader.csproj", "{86C13085-60D1-4AB0-AAF7-55F27C24DEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C13085-60D1-4AB0-AAF7-55F27C24DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C13085-60D1-4AB0-AAF7-55F27C24DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C13085-60D1-4AB0-AAF7-55F27C24DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C13085-60D1-4AB0-AAF7-55F27C24DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C6C518-DA0D-4557-872E-804717A2A54A}
+	EndGlobalSection
+EndGlobal
