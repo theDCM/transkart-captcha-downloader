@@ -6,4 +6,8 @@
     <RootNamespace>transkart_captcha_downloader</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.7" />
+  </ItemGroup>
+
 </Project>
